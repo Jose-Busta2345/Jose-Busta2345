@@ -1,0 +1,62 @@
+[
+    {
+      "precio": "2,873,100",
+      "id": 1,
+      "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/1.jpg"
+    },
+    {
+      "precio": "2,258,000",
+      "id": 2,
+      "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/2.jpg"
+    },
+    {
+      "precio": "100,000",
+      "id": 3,
+      "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/3.jpg"
+    },
+    {
+      "precio": "545,000.00",
+      "id": 4,
+      "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/4.jpg"
+    },
+    {
+      "precio": "700,000.00",
+      "id": 5,
+      "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/5.jpg"
+    },
+    {
+      "precio": "190,408,7",
+      "id": 6,
+      "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/6.jpeg"
+    },
+    {
+        "precio": "2,000.00",
+        "id": 7,
+        "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/7.jpeg"
+      },
+      {
+        "precio": "207,771,62",
+        "id": 8,
+        "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/8.jpeg"
+      },
+      {
+        "precio": "1,560,256",
+        "id": 9,
+        "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/9.jpeg"
+      }, 
+      {
+        "precio": "207,716,2",
+        "id": 10,
+        "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/10.jpeg"
+      },
+      {
+        "precio": "1,504,768",
+        "id": 11,
+        "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/11.jpeg"
+      },
+      {
+        "precio": "200,000",
+        "id": 12,
+        "thumbnailUrl": "https://crazyjose.000webhostapp.com/imagenes/12.jpeg"
+      }   
+  ]
